@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "KW11",
-    "generated_at": "2026-03-09T00:00:00Z",
+    "version": "KW12",
+    "generated_at": "2026-03-16T00:00:00Z",
     "coords_status": "missing (run geocode.py locally to fill)",
     "sources": [
-      "Wochenpreise_Tankstellen_KW11.pdf",
+      "Wochenpreise_Tankstellen_KW12.pdf",
       "tankstellen.json (base)"
     ],
     "map": {
@@ -26,8 +26,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.552",
-          "gutmann": "1.230"
+          "eurowag": "1.558",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -56,8 +56,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.689",
-          "gutmann": "1.230"
+          "eurowag": "1.668",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -86,8 +86,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "0.704",
-          "gutmann": "1.230"
+          "eurowag": "1.683",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -116,8 +116,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.730",
-          "gutmann": "1.230"
+          "eurowag": "1.685",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -145,7 +145,7 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.582",
+          "as24": "1.608",
           "eurowag": null,
           "gutmann": null
         },
@@ -175,8 +175,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.731",
-          "gutmann": "1.230"
+          "eurowag": "1.661",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -205,8 +205,8 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.706",
-          "gutmann": "1.230"
+          "eurowag": "1.686",
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -234,8 +234,8 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.568",
-          "eurowag": "1.693",
+          "as24": "1.580",
+          "eurowag": "1.672",
           "gutmann": null
         },
         "adblue": {
@@ -265,7 +265,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.706",
+          "eurowag": "1.686",
           "gutmann": null
         },
         "adblue": {
@@ -294,7 +294,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.686",
           "gutmann": null
         },
         "adblue": {
@@ -323,7 +323,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.897",
+          "eurowag": "1.837",
           "gutmann": null
         },
         "adblue": {
@@ -351,7 +351,7 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.566",
+          "as24": "1.580",
           "eurowag": null,
           "gutmann": null
         },
@@ -381,7 +381,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.706",
+          "eurowag": "1.688",
           "gutmann": null
         },
         "adblue": {
@@ -409,8 +409,8 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.518",
-          "eurowag": "1.716",
+          "as24": "1.530",
+          "eurowag": "1.707",
           "gutmann": null
         },
         "adblue": {
@@ -441,7 +441,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.230"
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -469,7 +469,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -498,7 +498,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -527,7 +527,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -556,7 +556,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.689",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -585,7 +585,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.768",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -614,7 +614,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.707",
+          "eurowag": "1.699",
           "gutmann": null
         },
         "adblue": {
@@ -643,7 +643,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -672,7 +672,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.766",
+          "eurowag": "1.746",
           "gutmann": null
         },
         "adblue": {
@@ -701,7 +701,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.541",
+          "eurowag": "1.535",
           "gutmann": null
         },
         "adblue": {
@@ -730,7 +730,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.714",
+          "eurowag": "1.706",
           "gutmann": null
         },
         "adblue": {
@@ -759,7 +759,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -788,7 +788,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -817,7 +817,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.530",
+          "eurowag": "1.519",
           "gutmann": null
         },
         "adblue": {
@@ -846,7 +846,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -875,7 +875,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.394",
+          "eurowag": "1.463",
           "gutmann": null
         },
         "adblue": {
@@ -903,7 +903,7 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.518",
+          "as24": "1.530",
           "eurowag": null,
           "gutmann": null
         },
@@ -933,7 +933,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.533",
+          "eurowag": "1.485",
           "gutmann": null
         },
         "adblue": {
@@ -961,7 +961,7 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.518",
+          "as24": "1.530",
           "eurowag": null,
           "gutmann": null
         },
@@ -991,7 +991,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.659",
+          "eurowag": "1.664",
           "gutmann": null
         },
         "adblue": {
@@ -1021,7 +1021,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.230"
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -1051,7 +1051,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.230"
+          "gutmann": "1.458"
         },
         "adblue": {
           "as24": null,
@@ -1077,7 +1077,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.422",
+          "eurowag": "1.569",
           "gutmann": null
         },
         "adblue": {
@@ -1106,7 +1106,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.524",
+          "eurowag": "1.548",
           "gutmann": null
         },
         "adblue": {
@@ -1135,7 +1135,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.714",
+          "eurowag": "1.565",
           "gutmann": null
         },
         "adblue": {
@@ -1163,7 +1163,7 @@
       },
       "preise": {
         "diesel": {
-          "as24": "1.416",
+          "as24": "1.468",
           "eurowag": null,
           "gutmann": null
         },
@@ -1193,7 +1193,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.566",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -1222,7 +1222,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -1251,7 +1251,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.704",
+          "eurowag": "1.683",
           "gutmann": null
         },
         "adblue": {
@@ -1280,12 +1280,12 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.828",
+          "eurowag": "1.794",
           "gutmann": null
         },
         "adblue": {
           "as24": null,
-          "eurowag": "0.888",
+          "eurowag": "0.817",
           "gutmann": null
         }
       },
@@ -1309,12 +1309,12 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.822",
+          "eurowag": "1.771",
           "gutmann": null
         },
         "adblue": {
           "as24": null,
-          "eurowag": "0.888",
+          "eurowag": "0.817",
           "gutmann": null
         }
       },
@@ -1338,12 +1338,12 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.809",
+          "eurowag": "1.744",
           "gutmann": null
         },
         "adblue": {
           "as24": null,
-          "eurowag": "0.888",
+          "eurowag": "0.817",
           "gutmann": null
         }
       },
@@ -1367,7 +1367,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.758",
+          "eurowag": "1.909",
           "gutmann": null
         },
         "adblue": {
@@ -1396,12 +1396,12 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.828",
+          "eurowag": "1.771",
           "gutmann": null
         },
         "adblue": {
           "as24": null,
-          "eurowag": "0.888",
+          "eurowag": "0.817",
           "gutmann": null
         }
       },
@@ -1425,12 +1425,12 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.828",
+          "eurowag": "1.771",
           "gutmann": null
         },
         "adblue": {
           "as24": null,
-          "eurowag": "0.888",
+          "eurowag": "0.817",
           "gutmann": null
         }
       },
@@ -1454,7 +1454,7 @@
       "preise": {
         "diesel": {
           "as24": null,
-          "eurowag": "1.837",
+          "eurowag": "1.753",
           "gutmann": null
         },
         "adblue": {
