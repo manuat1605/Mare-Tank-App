@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "KW13",
+    "version": "KW15",
     "generated_at": "2026-03-23T00:00:00Z",
     "coords_status": "missing (run geocode.py locally to fill)",
     "sources": [
-      "Wochenpreise_Tankstellen_KW13.pdf",
+      "Wochenpreise_Tankstellen_KW15.pdf",
       "tankstellen.json (base)"
     ],
     "map": {
@@ -12,7 +12,7 @@
       "shows_payment_cards": true,
       "note": "Karte kann erst Marker anzeigen, sobald coords (lat/lon) gesetzt sind."
     },
-    "validation_note": "Preise aus PDF KW13 übertragen und offensichtliche OCR-/Konsistenzfehler bereinigt."
+    "validation_note": "Preise aus PDF KW15 übertragen; offensichtliche OCR-/Formatfehler bereinigt (z. B. 0739→0.739, 0.0882→0.882, 0.0,715→0.715)."
   },
   "stations": [
     {
