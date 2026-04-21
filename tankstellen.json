@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "KW15",
-    "generated_at": "2026-03-23T00:00:00Z",
+    "version": "KW17",
+    "generated_at": "2026-04-21T00:00:00Z",
     "coords_status": "missing (run geocode.py locally to fill)",
     "sources": [
-      "Wochenpreise_Tankstellen_KW15.pdf",
+      "Wochenpreise_Tankstellen_KW13.pdf",
       "tankstellen.json (base)"
     ],
     "map": {
@@ -12,7 +12,7 @@
       "shows_payment_cards": true,
       "note": "Karte kann erst Marker anzeigen, sobald coords (lat/lon) gesetzt sind."
     },
-    "validation_note": "Preise aus PDF KW15 übertragen; offensichtliche OCR-/Formatfehler bereinigt (z. B. 0739→0.739, 0.0882→0.882, 0.0,715→0.715)."
+    "validation_note": "Preise aus PDF KW13 übertragen und offensichtliche OCR-/Konsistenzfehler bereinigt."
   },
   "stations": [
     {
@@ -28,7 +28,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.733",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -58,7 +58,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.835",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -88,7 +88,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.850",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -118,7 +118,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.811",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -177,7 +177,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.799",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -207,7 +207,7 @@
         "diesel": {
           "as24": null,
           "eurowag": "1.852",
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -442,7 +442,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -1022,7 +1022,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
@@ -1052,7 +1052,7 @@
         "diesel": {
           "as24": null,
           "eurowag": null,
-          "gutmann": "1.500"
+          "gutmann": "1.589"
         },
         "adblue": {
           "as24": null,
